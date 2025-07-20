@@ -1,0 +1,11 @@
+101,Java Programming,Cipher Schools,Adhiraj Chauhan & Team,Available
+102,Python Basics,Packt Publishing,Mark Lutz,Available
+103,Data Structures,Narosa Publishing,Seymour Lipschutz,Available
+104,Operating System Concepts,Wiley,Silberschatz,Available
+105,Computer Networks,Pearson,Andrew Tanenbaum,Available
+106,Database Management Systems,McGraw Hill,Raghu Ramakrishnan,Available
+107,Artificial Intelligence,Springer,Stuart Russell,Available
+108,Software Engineering,McGraw Hill,Ian Sommerville,Available
+109,Web Development,FreeCodeCamp,Multiple Authors,Available
+110,Machine Learning,O'Reilly,Tom M. Mitchell,Available
+111,Library Manager,Suraj Chaudhary,Itni Bhoot h Sir?,Available
